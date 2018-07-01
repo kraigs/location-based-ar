@@ -1,3 +1,10 @@
+
+Right now I can take 0 credit for the great work that jeromeetienne, id10t and many others have done. 
+I forked this so I can see if a few ideas I have for augmented reality are doable in teh currnet state of technology. Of course I needed an SSL certificate and hositng area, so thank you to the wonderful people at github (and microsoft??) 
+
+
+Original info:
+----
 # Experimentation with GPS for AR
 
 This is an experimentation of using phone gps + gyroscope to display Augmented reality.
